@@ -1,0 +1,105 @@
+[appearance]
+theme_day = "minimal"
+theme_night = "minimal"
+font = "my_font_set"
+font_size = "L"
+
+[marketing.seo]
+site_type = "Person"
+local_business_type = ""
+org_name = ""
+description = "A highly-customizable Hugo academic resume theme powered by Wowchemy website builder."
+twitter = "wowchemy"
+
+[main]
+name = "About me"
+
+[marketing.analytics]
+google_analytics = ""
+baidu_tongji = ""
+
+[marketing.verification]
+google = ""
+baidu = ""
+
+[header.navbar]
+enable = true
+align = "l"
+show_logo = true
+show_language = false
+show_day_night = true
+show_search = true
+highlight_active_link = true
+
+[footer.copyright]
+notice = "© {year} Pratyush VM. Published under MIT License."
+
+  [footer.copyright.license]
+  enable = false
+  allow_derivatives = false
+  share_alike = false
+  allow_commercial = false
+
+[locale]
+date_format = "Jan 2, 2006"
+time_format = "3:04 PM"
+address_format = "en-us"
+
+[features.syntax_highlighter]
+theme_light = "github-light"
+theme_dark = "dracula"
+
+[features.math]
+enable = false
+
+[features.privacy_pack]
+enable = false
+
+[features.repository]
+url = "https://github.com/<username>/<repository>"
+content_dir = "content"
+branch = "main"
+
+[features.avatar]
+gravatar = true
+shape = "circle"
+
+[features.comment]
+provider = ""
+
+  [features.comment.disqus]
+  shortname = ""
+  show_count = true
+
+  [features.comment.commento]
+  url = ""
+
+  [features.comment.giscus]
+  repo = ""
+  repo_id = ""
+  category = ""
+  category_id = ""
+
+[features.search]
+provider = "wowchemy"
+
+  [features.search.algolia]
+  app_id = ""
+  api_key = ""
+  index_name = ""
+  show_logo = false
+
+[features.map]
+provider = ""
+api_key = ""
+zoom = 15
+
+[extensions.cms]
+branch = "main"
+local_backend = false
+
+[extensions.academicons]
+enable = true
+
+[security]
+allow_frame = true
