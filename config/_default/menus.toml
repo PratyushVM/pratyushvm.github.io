@@ -19,8 +19,8 @@ url = "#projects"
 weight = 40
 
 [[main]]
-name = "Achievements"
-url = "#achievements"
+name = "Activities"
+url = "#activities"
 weight = 50
 
 [[main]]
