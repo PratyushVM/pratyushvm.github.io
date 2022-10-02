@@ -56,7 +56,7 @@ enable = false
 enable = false
 
 [features.repository]
-url = "https://github.com/<username>/<repository>"
+url = "https://pratyushvm.github.io/personal-website/"
 content_dir = "content"
 branch = "main"
 
