@@ -1,5 +1,5 @@
 title = "Pratyush VM"
-baseURL = "https://pratyushvm.github.io/personal-website/"
+baseURL = "/https://pratyushvm.github.io/personal-website/"
 defaultContentLanguage = "en"
 hasCJKLanguage = false
 defaultContentLanguageInSubdir = false
