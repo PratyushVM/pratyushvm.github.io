@@ -48,7 +48,7 @@ item:
     title: Core (2020-21) and Joint Core (2019-20) of EDITH, CS Club
     url: 'https://csclub.netlify.app/'
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/UX4W4PNMPKP7
-    date_start: '2021-05-05'
+    date_start: '2021-04-05'
     date_end: '2021-07-05'
     description: 'Completed the 5-course Deep Learning Specialization on Coursera.'
     organization: Coursera
