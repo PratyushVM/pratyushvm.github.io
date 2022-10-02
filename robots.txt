@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://pratyushvm.github.io/personal-website/sitemap.xml
+Sitemap: /sitemap.xml
