@@ -65,7 +65,7 @@ social:
     link: https://icpc.global/ICPCID/I6KI5ZXSYB6U
   - icon: cv
     icon_pack: ai
-    link: 'CV/Pratyush-CV.pdf'
+    link: 'cv/' 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -82,4 +82,4 @@ highlight_name: true
 
 Hello! I am **Pratyush V Moorthy**, currently a Systems Software Engineer at [NVIDIA](https://www.nvidia.com/en-in/), in the DevTools team where I work on [CUPTI](https://docs.nvidia.com/cuda/cupti/index.html) (The Profiling Tools API shipped with the CUDA toolkit). I recently graduated with a BTech (Distinction) in **Computer Science and Engineering** from the [Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kancheepuram](http://iiitdm.ac.in/).
 
-Please find my comprehensive CV [here](CV/Pratyush-CV.pdf).
+Please find my comprehensive CV <a href="cv/Pratyush-CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
