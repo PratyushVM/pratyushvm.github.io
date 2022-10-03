@@ -89,7 +89,7 @@ experience:
     company: HPRCSE Labs, IIITDM Kancheepuram
     company_url: 'http://web.iiitdm.ac.in/noor/index.html'
     # company_logo: org-x
-    location: Bangalore, India (Remote)
+    location: Chennai, India
     date_start: '2019-12-01'
     date_end: '2020-01-31'
     description: "
