@@ -7,9 +7,9 @@ font_size = "L"
 [marketing.seo]
 site_type = "Person"
 local_business_type = ""
-org_name = ""
-description = "A highly-customizable Hugo academic resume theme powered by Wowchemy website builder."
-twitter = "wowchemy"
+org_name = "Pratyush VM"
+description = "Pratyush VM's Personal Website"
+twitter = ""
 
 [main]
 name = "About me"
@@ -50,13 +50,13 @@ theme_light = "github-light"
 theme_dark = "dracula"
 
 [features.math]
-enable = false
+enable = true
 
 [features.privacy_pack]
 enable = false
 
 [features.repository]
-url = "https://pratyushvm.github.io/personal-website/"
+url = "https://pratyushvm.github.io/"
 content_dir = "content"
 branch = "main"
 
