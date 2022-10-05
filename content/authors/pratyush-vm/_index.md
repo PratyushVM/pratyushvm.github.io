@@ -30,14 +30,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: "BTech CSE (CGPA 9.17/10.0)"
-      institution: IIITDM Kancheepuram
+    - course: "B.Tech Computer Science & Engineering"
+      institution: IIITDM Kancheepuram (CGPA 9.07/10.0)
       year: 2022
-    - course: "AISSCE - Class 12 (Marks 475/500)"
-      institution: SBOA School and Junior College
+    - course: "AISSCE - Class 12"
+      institution: SBOA School and Junior College (Marks 475/500)
       year: 2018
-    - course: SSLC - Class 10 (CGPA 10.0/10.0)
-      institution: SBOA School and Junior College
+    - course: SSLC - Class 10 
+      institution: SBOA School and Junior College (CGPA 10.0/10.0)
       year: 2016
 
 # Social/Academic Networking
