@@ -49,7 +49,7 @@ experience:
     date_start: '2021-11-05'
     date_end: '2022-06-29'
     description: "
-    Guide - [Prof.Debiprasanna Sahoo](https://sites.google.com/view/debiprasannasahoo/home?authuser=0)
+    Guide - [Dr.Debiprasanna Sahoo](https://sites.google.com/view/debiprasannasahoo/home?authuser=0)
 
 
     Studied the design and micro-architecture of GPUs, SIMT Cores, Warp schedulers and the SIMT pipeline. Worked on formalizing the working of the SIMT warp scheduler as part of my [Bachelors' Thesis](https://drive.google.com/file/d/1xuq5YXFx3X96e3lvlG8KRdhVVXNxfOiw/view?usp=sharing).
@@ -79,7 +79,7 @@ experience:
     date_start: '2020-03-24'
     date_end: '2020-10-29'
     description: "
-    Guide - [Prof.Rupesh Nasre](https://www.cse.iitm.ac.in/~rupesh/?mode=Home)
+    Guide - [Dr.Rupesh Nasre](https://www.cse.iitm.ac.in/~rupesh/?mode=Home)
 
 
     Implemented different parallel algorithms to compute maximum network flow on GPUs using CUDA.Also experimented with fundamental graph problems like parallel BFS, parallel Bellman-Ford SSSP on GPUs.
