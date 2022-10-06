@@ -18,14 +18,15 @@ organizations:
     url: https://www.nvidia.com/en-in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include High Performance Computing and its various applications.
+bio: My research interests include High Performance Computing and its various applications in Scientific Computing, Graphics and AI.
 
 # Interests to show in About widget
 interests:
   - High Performance Computing
   - GPU Programming and Architecture
-  - Artificial Intelligence
+  - Scientific Computing
   - Graphics and Simulations
+  - Artificial Intelligence
 
 # Education to show in About widget
 education:
