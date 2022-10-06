@@ -97,6 +97,8 @@ experience:
 
 
     Implemented parallel algorithms and explored various tools for code profiling. Also did literature surveys on parallel computing architectures.
+
+    Gave a [talk](https://drive.google.com/file/d/1R2A6Ak7OQcmDZr3rtZBGLUfgAZjadkVu/view?usp=sharing) on parallel computing taxonomies in the CS Club's HPC Track.
     "
 
 design:
