@@ -63,7 +63,7 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-10-12'
     description: "
-    Guide - [Prof.R.Govindarajan](https://www.csa.iisc.ac.in/~govind/index.html)
+    Guide - [Dr.R.Govindarajan](https://www.csa.iisc.ac.in/~govind/index.html)
 
 
     - Recipient of the Indian Academy of Sciences’ Summer Research Fellowship SRFP ’21.
