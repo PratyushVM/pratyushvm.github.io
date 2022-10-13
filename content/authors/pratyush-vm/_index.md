@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: "B.Tech Computer Science & Engineering"
-      institution: IIITDM Kancheepuram (CGPA 9.07/10.0)
+      institution: IIITDM Kancheepuram (CGPA 9.17/10.0)
       year: 2022
     - course: "AISSCE - Class 12"
       institution: SBOA School and Junior College (Marks 475/500)
