@@ -24,7 +24,7 @@ bio: My research interests include High Performance Computing and its various ap
 interests:
   - High Performance Computing
   - GPU Programming and Architecture
-  - Computing systems and architecture
+  - Computing systems and Architecture
 
 # Education to show in About widget
 education:
